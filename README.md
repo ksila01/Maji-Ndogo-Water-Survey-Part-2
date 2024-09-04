@@ -17,8 +17,7 @@
 ***
   
 ## Project_Overview
-This project is the first part of the Maji Ndogo Integrated Water Project, focusing on visualizing the historical aspects of water access in the Maji Ndogo region. The goal of this visualization is to provide insights into past water access challenges, helping stakeholders understand the trends, patterns, and key issues that have shaped the current situation. By leveraging Power BI, this project presents data in an interactive and visually engaging manner to support informed decision-making and future interventions. The visuals were created to show the divide between rural and urban populations, the total population using different water sources, and broken infrastructure in different provinces. It stresses the importance of addressing gender inequality in access to water.
-
+The next phase focuses on visualizing the data to gain a thorough understanding of the national survey results. This process includes generating visuals that involve calculating extra fields such as the average queue time per water source, categorizing sources based on basic or below-basic access, estimating costs for improvements, and mapping pollution, crime data, and water insights. These steps enhanced the data's value and depth of analysis.
 ***
 **National Statistics**
 
