@@ -2,7 +2,10 @@
 ## Part 2: Moulding Data Into Visual Stories of Maji Ndogo
 [Download_PowerBI_Report_Here](part_2.pbix)
 ***
-![Alt Text](images/Capture.PNG)
+<p align="center">
+  <img src="images/Capture.PNG" alt="Image 3" width="500"/>
+</p>
+
 
 ***
 
