@@ -20,19 +20,10 @@
 The next phase focuses on visualizing the data to gain a thorough understanding of the national survey results. This process includes generating visuals that involve calculating extra fields such as the average queue time per water source, categorizing sources based on basic or below-basic access, estimating costs for improvements, and mapping pollution, crime data, and water insights. These steps enhanced the data's value and depth of analysis.
 ***
 **National Statistics**
-<table>
-  <tr>
-  
-    <td><img src="images/image1.png" alt="Image 2" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="images/Image2.png" alt="Image 3" width="200"/></td>
-    <td><img src="images/Image3.png" alt="Image 4" width="200"/></td>
-  </tr>
-</table>
-
-
+![Alt Text](images/Image.PNG)
 ![Alt Text](images/image1.PNG)
+![Alt Text](images/Image2.PNG)
+![Alt Text](images/Image3.PNG)
 
 **Findings**
 * **64%** of the population (approximately 18 million people) live in rural areas, while **36%** (around 10 million people) live in urban areas. This indicates that the majority of the population relying on water resources is concentrated in rural areas, which may present unique challenges in terms of infrastructure and access.
