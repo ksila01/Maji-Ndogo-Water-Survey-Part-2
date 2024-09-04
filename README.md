@@ -25,6 +25,16 @@ The next phase focuses on visualizing the data to gain a thorough understanding 
 ![Alt Text](images/Image2.PNG)
 ![Alt Text](images/Image3.PNG)
 
+
+<p align="center">
+  <img src="images/Image.PNG" alt="Image 1" width="200"/>
+  <img src="images/image1.PNG" alt="Image 2" width="200"/>
+</p>
+<p align="center">
+  <img src="images/Image2.PNG" alt="Image 3" width="200"/>
+  <img src="images/Image3.PNG" alt="Image 4" width="200"/>
+</p>
+
 **Findings**
 * **64%** of the population (approximately 18 million people) live in rural areas, while **36%** (around 10 million people) live in urban areas. This indicates that the majority of the population relying on water resources is concentrated in rural areas, which may present unique challenges in terms of infrastructure and access.
 * The population served by water sources consists of **69.06% female, 23.08% male, and 7.86% children**. This demographic breakdown shows a significant gender imbalance, with females forming the majority. This insight could indicate differences in accessibility or social roles related to water collection and usage.
