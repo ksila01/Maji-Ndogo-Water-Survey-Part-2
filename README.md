@@ -21,33 +21,28 @@ The next phase focuses on visualizing the data to gain a thorough understanding 
 ***
 ## Findings
 <p align="center">
-  <img src="images/Image.PNG" alt="Image 1" width="300"/>
-  <img src="images/image1.PNG" alt="Image 2" width="300"/>
+  <img src="images/Image.PNG" alt="Image 1" width="500"/>
+  <img src="images/image1.PNG" alt="Image 2" width="500"/>
 </p>
 <p align="center">
-  <img src="images/Image2.PNG" alt="Image 3" width="300"/>
-  <img src="images/Image3.PNG" alt="Image 4" width="300"/>
+  <img src="images/Image2.PNG" alt="Image 3" width="500"/>
+  <img src="images/Image3.PNG" alt="Image 4" width="500"/>
 </p>
 
-**Findings**
-* **64%** of the population (approximately 18 million people) live in rural areas, while **36%** (around 10 million people) live in urban areas. This indicates that the majority of the population relying on water resources is concentrated in rural areas, which may present unique challenges in terms of infrastructure and access.
-* The population served by water sources consists of **69.06% female, 23.08% male, and 7.86% children**. This demographic breakdown shows a significant gender imbalance, with females forming the majority. This insight could indicate differences in accessibility or social roles related to water collection and usage.
-* The most utilized water source is shared taps, serving over **60 million people**. In contrast, other sources like wells, rivers, and broken taps serve much fewer people. This highlights the reliance on shared infrastructure and possibly the need for improvement or expansion of water sources in the region.
-* The provinces of Kilimani, Akatsi, and Sokoto show significant disparities between the percentages of males and females served.
+* Queue times typically peak both before and after regular business hours, with significant variations based on location and time of day. On average, the longest waits are observed on weekends and early mornings. For instance, in cities like Sokoto, average wait times can exceed one hour.
 
-**Water Queue Time Statistics**
+* Saturdays experience particularly long queue times, reaching up to 5 hours, possibly due to reduced water supply over the weekend, while the shortest lines are recorded on Wednesdays.
 
-![Alt Text](images/Queaus.PNG)
+* Shared taps are the most prevalent water source, used by more than 40% of the population, serving around 12 million users. However, this heavy reliance on shared taps leads to extended wait times, which can stretch up to eight hours. Wells are the second most common source, used by up to 20% of the population.
 
-**Findings**
-* The report on water access in Maji Ndogo shows that average queue times are highest on Saturdays, peaking at over 200 minutes, while being lowest on weekdays, particularly on Wednesdays, with under 50 minutes.
-* The time spent in queues tends to increase throughout the day, peaking around 6 PM, especially on weekends.
-*  Additionally, there's a positive correlation between the number of people served and the average time in the queue, with larger crowds leading to wait times longer, sometimes exceeding 200 minutes.
+* Women account for over 65% of those waiting in queues. In the Kilimani District, women spend more than three times longer in queues compared to men, possibly due to limited water access in Sokoto.
 
-**Water Related Crimes Statistics**
-![Alt Text](images/Water Related Crimes.png)
+* Hawassa Province stands out with significantly shorter wait times, likely due to better water infrastructure and a smaller population relative to its water sources.
 
-**Findings**
+* Rural areas, in general, face longer queues than urban centers, likely due to fewer water access points. Addressing this disparity by developing more water sources in rural regions could help reduce wait times.
 
-* The crime analysis report for Maji Ndogo reveals that Kilimani has the highest crime rate, accounting for 27.39% of the total crimes, followed by Sokoto at 24.21%. Harassment is the most prevalent crime type, particularly impacting female victims, with over 15,000 reported cases.
-* The distribution of crime by gender and province shows that Kilimani and Akatsi have the highest numbers of male victim
+* Access to safe water sources is notably lower in rural areas, with over 60% of the rural population relying on rivers, compared to just 5% in urban areas. Significant investment is needed to close this gap.
+
+* Over 70% of well samples reveal chemical or biological contamination, with provinces like Hawassa facing substantial challenges in water quality due to both types of contamination.
+
+* Crime rates at water sources spike on weekends and after dark, with women facing twice the risk of becoming victims of crimes such as harassment and assault compared to men while collecting water. There appears to be a correlation between water access issues and higher crime rates near water sources, as cities with longer queues tend to report more incidents at these points.
