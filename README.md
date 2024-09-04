@@ -3,7 +3,7 @@
 [Download_PowerBI_Report_Here](part_2.pbix)
 ***
 <p align="center">
-  <img src="images/Capture.PNG" alt="Image 3" width="500"/>
+  <img src="images/Capture.PNG" alt="Image 3" width="600"/>
 </p>
 
 
