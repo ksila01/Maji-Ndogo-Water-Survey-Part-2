@@ -21,12 +21,12 @@ The next phase focuses on visualizing the data to gain a thorough understanding 
 ***
 
 <p align="center">
-  <img src="images/Image.PNG" alt="Image 1" width="400"/>
-  <img src="images/image1.PNG" alt="Image 2" width="400"/>
+  <img src="images/Image.PNG" alt="Image 1" width="500"/>
+  <img src="images/image1.PNG" alt="Image 2" width="500"/>
 </p>
 <p align="center">
-  <img src="images/Image2.PNG" alt="Image 3" width="400"/>
-  <img src="images/Image3.PNG" alt="Image 4" width="400"/>
+  <img src="images/Image2.PNG" alt="Image 3" width="500"/>
+  <img src="images/Image3.PNG" alt="Image 4" width="500"/>
 </p>
 
 **Findings**
