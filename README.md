@@ -20,6 +20,16 @@
 The next phase focuses on visualizing the data to gain a thorough understanding of the national survey results. This process includes generating visuals that involve calculating extra fields such as the average queue time per water source, categorizing sources based on basic or below-basic access, estimating costs for improvements, and mapping pollution, crime data, and water insights. These steps enhanced the data's value and depth of analysis.
 ***
 **National Statistics**
+<table>
+  <tr>
+    <td><img src="Image.png" alt="Image 1" width="200"/></td>
+    <td><img src="image1.png" alt="Image 2" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="Image2.png" alt="Image 3" width="200"/></td>
+    <td><img src="Image3.png" alt="Image 4" width="200"/></td>
+  </tr>
+</table>
 
 ![Alt Text](images/image1.PNG)
 
