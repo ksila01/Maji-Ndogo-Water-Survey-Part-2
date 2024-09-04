@@ -22,7 +22,7 @@ The next phase focuses on visualizing the data to gain a thorough understanding 
 **National Statistics**
 <table>
   <tr>
-    <td><![Alt Text](images/Capture.PNG) width="200"/></td>
+  
     <td><img src="images/image1.png" alt="Image 2" width="200"/></td>
   </tr>
   <tr>
