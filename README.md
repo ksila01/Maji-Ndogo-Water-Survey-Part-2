@@ -1,8 +1,8 @@
 # Maji Ndojo National Water Survey Analysis
 ## Part 2: Moulding Data Into Visual Stories of Maji Ndogo
-[Download_PowerBI_Report_Here](part_1.pbix)
+[Download_PowerBI_Report_Here](part_2.pbix)
 ***
-![Alt Text](images/Capture1.PNG)
+![Alt Text](images/Capture.PNG)
 
 ***
 
